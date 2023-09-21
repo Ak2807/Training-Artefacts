@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6405-B264
+
+ Directory of C:\Users\akshatg\Desktop\New folder
+
+09/21/2023  11:56 AM    <DIR>          .
+09/21/2023  11:56 AM    <DIR>          ..
+09/21/2023  11:56 AM                 0 aks.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  240,444,829,696 bytes free
