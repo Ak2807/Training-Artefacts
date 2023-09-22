@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6405-B264
+
+ Directory of C:\Users\akshatg\Desktop\New folder
+
+09/22/2023  10:11 AM    <DIR>          .
+09/22/2023  10:11 AM    <DIR>          ..
+09/21/2023  11:56 AM               358 aks.txt
+09/12/2023  09:46 AM            20,933 Akshat Gupta - Testing Assignment.xlsx
+09/21/2023  02:54 PM            11,233 Definitions.xlsx
+09/21/2023  12:19 PM               409 index.html
+09/22/2023  10:11 AM                 0 new.txt
+09/21/2023  02:54 PM             9,413 Test cases.xlsx
+09/22/2023  10:04 AM    <DIR>          Training-Artefacts
+09/21/2023  03:13 PM    <DIR>          website
+               6 File(s)         42,346 bytes
+               4 Dir(s)  238,612,619,264 bytes free
